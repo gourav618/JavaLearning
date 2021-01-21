@@ -9,6 +9,7 @@ abstract class mobile{
 	//Abstract Method
 	abstract void run();
 	
+	//may or maynot have all method as abstract
 	void dialNumbers() {
 		System.out.println("Nos are dialed from Nokia mobile");
 	}
